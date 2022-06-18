@@ -1,0 +1,13 @@
+server:
+  port: 8088
+cloud:
+  aws:
+    region:
+      static: ap-east-1
+    sqs:
+      endpoint: http:// hjghj/
+      listener:
+        auto-startup: true
+    credentials:
+      access-key: cvccc
+      secret-key: xxx
